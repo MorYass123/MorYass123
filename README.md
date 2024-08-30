@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Yass
+- 👀 I’m interested in building a tool to manage treasury for small business
